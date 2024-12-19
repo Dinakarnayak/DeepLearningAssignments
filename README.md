@@ -70,5 +70,4 @@ For inquiries, please reach out at [dinakarnayak4248@gmail.com](mailto:dinakarna
 ---
 
 Thank you for exploring this repository! Feel free to contribute and experiment with the assignments.
-```
 
